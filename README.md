@@ -2,7 +2,13 @@
 - Building a (full stack) web app that allows users to signup, signin to Code Pairing App 
 - Using the MERN stack and testing via Jest and Cypress 
 - Connecting to Database via MongoDB
-- Users can: Find Pair Parnters, see location, see availabilty and request to pair 
+
+## Users Can
+- Find Pair Parnters, see location, see availabilty and request to pair 
+- See Github Profile of Pair Partners
+- Add Pair Partners to friends list
+- Find Projects and Create Projects to work on
+- Video call with Pair Partners
 
 # Group Collabrators (Alphabetical)
 
@@ -41,15 +47,14 @@ MERN Stack
 * Any signed-up user can.....
 
 # Screen Shots
-#### Before Login - Main Page
+ #### Login/Signup Pages
+![Main Page](./client/images/one%20.png)
+![SignUp Page](./client/images/two.png)
 
- 
-#### Login/Signup Pages
-
-
-#### After Login - Main Page
-
-### USER STORIES
-
+#### Main Page Features
+![Welcome Page](./client/images/three.png)
+![four Page](./client/images/four.png)
+![five Page](./client/images/five.png)
+![six Page](./client/images/six.png)
 
 # SETUP
